@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'login/login_screen.dart';
 
 class OnboardingApp extends StatelessWidget {
   const OnboardingApp({super.key});
@@ -132,7 +133,13 @@ class OnboardingApp extends StatelessWidget {
                       borderRadius: BorderRadius.circular(28),
                     ),
                   ),
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const LoginScreen()),
+                    );
+                  },
                   child: const Text(
                     'Get Started',
                     style: TextStyle(
