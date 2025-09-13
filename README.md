@@ -1,7 +1,7 @@
-YuvaKhel Fitness App 🏃‍♀️
+YuvaKhel Fitness App 🏃‍♀️\n
 A new Flutter-based mobile application aimed at empowering youth and discovering champions in sports and fitness. This repository contains the source code for the YuvaKhel app.
 
-✨ About the Project
+✨ About the Project\n
 "YuvaKhel" is designed to help users track their fitness journey, push their limits, and record their personal bests. The app starts with a clean and motivating user interface to get users started on their path to becoming a champion.
 
 
